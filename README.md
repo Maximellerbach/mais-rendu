@@ -2,4 +2,4 @@
 
 
 mAIs est un projet de modélisation 3D d'image en temps réel.
-Un front est fournis pour realiser la démo end utilisateur
+Permettant de faire rentrer le téléspectateur dans le match au plus proche des joueurs
